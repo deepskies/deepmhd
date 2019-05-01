@@ -20,6 +20,8 @@ The code requires a few dependencies
 
 - Python 3
 - numpy 1.14.5
-- TensorFlow 1.6
-- Keras 2.2.4
+- tensorflow 1.6
+- keras 2.2.4
+- sci-kit-image 0.13
+- matplotlib 2.1.2
 - tdqm
