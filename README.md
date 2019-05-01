@@ -25,3 +25,7 @@ The code requires a few dependencies
 - sci-kit-image 0.13
 - matplotlib 2.1.2
 - tdqm
+
+### Hardware Requirements
+
+There should not be strong hardware requirements to make figures and evaluate networks. To train the networks we used a NVIDIA Tesla P100 GPU, and we do suggest GPU acceleration of some kind for timely network training.
