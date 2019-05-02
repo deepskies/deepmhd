@@ -24,7 +24,7 @@ The code requires a few dependencies
 - keras 2.2.4
 - sci-kit-image 0.13
 - matplotlib 2.1.2
-- tdqm
+- tqdm
 
 ### Hardware Requirements
 
