@@ -8,15 +8,15 @@ by J. E. G. Peek and Blakesley Burkhart, currently _in prep_, to be submitted to
 
 With these notebooks, and the associated data [here](https://doi.org/10.7910/DVN/UKOPYP), you should be able to 
 
-- extract normal and Fixed Fourier images from the turbulent simulations and save them as numpy files for training and test data
+- extract normal and Fixed Fourier Power (FFP) images from the turbulent simulations and save them as numpy files for training and test data
 - train networks to classify these images
-- evaluate the networks (either your own trained networks, or the ones provided by us at Harvard Dataverse)
+- evaluate the networks (either your own trained networks, or the ones provided by us at [here](https://doi.org/10.7910/DVN/UKOPYP))
 - run the saliency map analysis
-- make figures 1 and 3 (sans annotation)
+- make figures 1 and 3 (without annotation)
 
 ### Software Requirements
 
-The code requires a few dependencies
+These notebooks have a few dependencies:
 
 - Python 3
 - numpy 1.14.5
