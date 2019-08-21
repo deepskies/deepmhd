@@ -4,7 +4,7 @@ These notebooks are provided to reproduce all data-containing figures and all re
 
 ```Do Androids Dream of Magnetic Fields? Using Neural Networks to Interpret the Turbulent Interstellar Medium```
 
-by J. E. G. Peek and Blakesley Burkhart, currently _in prep_, to be submitted to AAS Journals
+by J. E. G. Peek and Blakesley Burkhart, accepted ApJL, https://arxiv.org/abs/1905.00918
 
 With these notebooks, and the associated data [here](https://doi.org/10.7910/DVN/UKOPYP), you should be able to 
 
